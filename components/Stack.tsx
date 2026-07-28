@@ -1,8 +1,8 @@
 import React from 'react';
 
 const stack = [
-  "C++", "Python", "PHP", "JavaScript", "WordPress", "Xray Core", "VLESS", 
-  "Reality", "Mihomo", "3x-ui", "Telegram API", "AI Integration", "Linux", 
+  "C++", "Python", "PHP", "JavaScript", "WordPress", "Docker", "CI/CD", 
+  "Nginx", "PostgreSQL", "REST API", "Telegram API", "AI Integration", "Linux", 
   "CSS3", "HTML5", "SQL", "Git", "Bash", "Networking", "Payment APIs"
 ];
 

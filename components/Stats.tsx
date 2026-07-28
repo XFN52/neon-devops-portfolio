@@ -4,7 +4,7 @@ import { GraduationCap, ShieldCheck, Bot, Timer } from 'lucide-react';
 
 const stats: (Stat & { icon: any })[] = [
   { label: "Foundation", value: "MECHMAT", sub: "Applied Mathematics", icon: GraduationCap },
-  { label: "Privacy Protocols", value: "XRAY/VLESS", sub: "Secure Tunneling", icon: ShieldCheck },
+  { label: "Cloud & Linux", value: "DEVOPS", sub: "System Infrastructure", icon: ShieldCheck },
   { label: "Neural Core", value: "AI-NATIVE", sub: "System Integration", icon: Bot },
   { label: "Experience", value: "1 YEAR", sub: "Commercial Practice", icon: Timer },
 ];

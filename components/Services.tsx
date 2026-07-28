@@ -3,11 +3,11 @@ import { Network, Bot, Globe, Code, Shield, Cpu } from 'lucide-react';
 import { Service } from '../types';
 
 const services: Service[] = [
-  { id: 1, title: "Secure Tunneling", description: "VPN setup using Xray, VLESS, Reality, and Mihomo. Configuring personal secure servers.", icon: Network, color: 'cyan' },
+  { id: 1, title: "DevOps & Cloud", description: "Docker containerization, CI/CD pipelines, and cloud server deployment.", icon: Network, color: 'cyan' },
   { id: 2, title: "AI & Bots", description: "Developing automated sales bots and API integrations with Python and Neural Networks.", icon: Bot, color: 'purple' },
   { id: 3, title: "Web Development", description: "Creating fast and secure websites on WordPress & PHP. Custom themes and plugins.", icon: Globe, color: 'green' },
   { id: 4, title: "Algorithmic Code", description: "Solving logic problems and backend tasks using C++ and Python. Math-driven optimization.", icon: Code, color: 'cyan' },
-  { id: 5, title: "System Setup", description: "Linux server configuration, 3x-ui panel management, and traffic routing optimization.", icon: Shield, color: 'purple' },
+  { id: 5, title: "System Administration", description: "Linux server configuration, Bash automation scripting, and performance tuning.", icon: Shield, color: 'purple' },
   { id: 6, title: "Smart Tools", description: "Integrating AI models to speed up workflows and automate routine tasks.", icon: Cpu, color: 'green' },
 ];
 
